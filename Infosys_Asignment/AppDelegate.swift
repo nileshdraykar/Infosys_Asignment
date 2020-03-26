@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  Infosys_Asignment
-//
-//  Created by Krawler iMac on 30/01/20.
-//  Copyright © 2020 Krawler iMac. All rights reserved.
-//
+
 
 import UIKit
 
